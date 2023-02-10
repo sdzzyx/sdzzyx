@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lenard Cortuna</h1>
+<h1 align="center">Hi 👋, I'm Lnrd</h1>
 <h3 align="center">grind grind grind</h3>
 <img align="right" alt="Coding" width="600" src="https://www.lambdatest.com/resources/images/news24.gif">
 
