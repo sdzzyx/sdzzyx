@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Lenard :)</h1>
-<h3 align="center">grind grind grind</h3>
-<img align="right" alt="Coding" witdh="600" src="https://www.lambdatest.com/resources/images/news24.gif">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Bungee&duration=4500&center=true&vCenter=true&width=550&lines=Hi+There!;I'm+sdzzyx!;I+like+coding👨🏽‍💻;Nice+to+meet+you+%3A)&size=30">
+  </a>
+</h1>
+
+<div align="center">
+  <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Banner" width="700" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdzzyx&label=Profile%20views&color=0e75b6&style=flat" alt="sdzzyx" /> </p>
 
@@ -15,10 +21,27 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdzzyx&show_icons=true&locale=en&layout=compact" alt="sdzzyx" /></p>
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,idea,eclipse,maven,git,github,linux,discord,devto,postgres," />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdzzyx&show_icons=true&locale=en" alt="sdzzyx" /></p>
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=xd,androidstudio,swift,kotlin,gradle,vercel,githubactions,postman,vscode,visualstudio" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdzzyx&" alt="sdzzyx" /></p>
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,firebase,figma,mongodb,mysql" />
+  </a>
+</p>
+
+![stats](https://github-readme-stats.vercel.app/api?username=sdzzyx&show_icons=true&theme=tokyonight)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdzzyx&layout=compact&theme=tokyonight)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=214fymw4evc6dh3jv4sogvu3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=214fymw4evc6dh3jv4sogvu3i&redirect=true)
