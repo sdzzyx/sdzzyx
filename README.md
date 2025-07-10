@@ -24,7 +24,7 @@
 
 </div>
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">📈 GitHub Stats</h3>
 
 <div align="center">
   
@@ -34,12 +34,15 @@
 
 </div>
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
   <a href="https://twitter.com/@jh_nrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jh_nrd" height="30" width="40" /></a>
   <a href="https://instagram.com/sdzzyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sdzzyx" height="30" width="40" /></a>
 </p>
 
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=214fymw4evc6dh3jv4sogvu3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=214fymw4evc6dh3jv4sogvu3i&redirect=t)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=214fymw4evc6dh3jv4sogvu3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=214fymw4evc6dh3jv4sogvu3i&redirect=true)
+
+</div>
