@@ -5,44 +5,41 @@
 </h1>
 
 <div align="center">
+  <p>I'm currently studying and learning Kotlin & Swift!</p>
+</div>
+
+<div align="center">
   <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Banner" width="700" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdzzyx&label=Profile%20views&color=0e75b6&style=flat" alt="sdzzyx" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sdzzyx&label=Profile%20views&color=0e75b6&style=flat" alt="sdzzyx" /> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/@jh_nrd" target="blank"><img src="https://img.shields.io/twitter/follow/@jh_nrd?logo=twitter&style=for-the-badge" alt="@jh_nrd" /></a> </p>
+<h3 align="center">⚙️ Languages and Tools</h3>
 
-- 🌱 I’m currently learning **Kotlin & Swift**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
+[![My Skills](https://skillicons.dev/icons?i=java,swift,androidstudio,kotlin,git,github,xd,figma,postman,firebase,idea,mysql&perline=6)](https://skillicons.dev)
+
+</div>
+
+<h3 align="center">GitHub Stats</h3>
+
+<div align="center">
+  
+![Lenard's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdzzyx&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdzzyx&layout=compact&show_icons=true&theme=tokyonight)
+
+</div>
+
+<h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/@jh_nrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jh_nrd" height="30" width="40" /></a>
-<a href="https://instagram.com/sdzzyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sdzzyx" height="30" width="40" /></a>
+  <a href="https://twitter.com/@jh_nrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jh_nrd" height="30" width="40" /></a>
+  <a href="https://instagram.com/sdzzyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sdzzyx" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,eclipse,maven,git,github,linux,discord,devto,postgres," />
-  </a>
-</p>
-
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=xd,androidstudio,swift,kotlin,gradle,vercel,githubactions,postman,vscode,visualstudio" />
-  </a>
-</p>
-
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,firebase,figma,mongodb,mysql" />
-  </a>
-</p>
-
-![stats](https://github-readme-stats.vercel.app/api?username=sdzzyx&show_icons=true&theme=tokyonight)
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdzzyx&layout=compact&theme=tokyonight)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=214fymw4evc6dh3jv4sogvu3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=214fymw4evc6dh3jv4sogvu3i&redirect=true)
-
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=214fymw4evc6dh3jv4sogvu3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=214fymw4evc6dh3jv4sogvu3i&redirect=t)
