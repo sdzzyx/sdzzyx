@@ -8,8 +8,9 @@
   <p>I'm currently studying and learning Kotlin & Swift!</p>
 </div>
 
-<img align="center" alt="coding" width="400px" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
-
+<div align="center">
+<img align="center" alt="coding" width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWM4bzJqYXczcG50eW5mMzFnampvdmxpd3prbXQ1MXNoOHdyNjZqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"> </div>
+<br><br>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sdzzyx&label=Profile%20views&color=0e75b6&style=flat" alt="sdzzyx" /> 
 </p>
