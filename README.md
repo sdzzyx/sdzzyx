@@ -28,7 +28,7 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sdzzyx&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdzzyx)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sdzzyx&layout=compact&theme=tokyonight)
 
