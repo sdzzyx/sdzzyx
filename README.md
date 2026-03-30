@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="[https://www.lambdatest.com/resources/images/news24.gif](https://github.com/ahsansajid25324)" alt="Banner" width="700" />
+  <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Banner" width="700" />
 </div>
 
 <p align="center"> 
