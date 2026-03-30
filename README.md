@@ -50,7 +50,3 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=214fymw4evc6dh3jv4sogvu3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=214fymw4evc6dh3jv4sogvu3i&redirect=true)
 
 </div>
-
-
-
-Can you changewhat is the latest in the GitHu Stats and Connect with  me because its not showing on my githu profile
