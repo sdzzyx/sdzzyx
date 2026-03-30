@@ -26,10 +26,8 @@
 <h3 align="center">📈 GitHub Stats</h3>
 
 <div align="center">
-  
-![Lenard's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdzzyx&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdzzyx&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdzzyx&layout=compact&theme=tokyonight&langs_count=6)
 
 </div>
 
