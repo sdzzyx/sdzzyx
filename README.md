@@ -28,7 +28,7 @@
 
 <div align="center">
   
-![Lenard's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdzzyx&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?sdzzyx=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdzzyx&layout=compact&show_icons=true&theme=tokyonight)
 
@@ -37,8 +37,12 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <a href="https://twitter.com/@jh_nrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jh_nrd" height="30" width="40" /></a>
-  <a href="https://instagram.com/sdzzyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sdzzyx" height="30" width="40" /></a>
+  <a href="https://twitter.com/jh_nrd" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/sdzzyx" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <div align="center">
