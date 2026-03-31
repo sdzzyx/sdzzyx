@@ -5,10 +5,6 @@
 </h1>
 
 <div align="center">
-  <p>I'm currently studying and learning Kotlin & Swift!</p>
-</div>
-
-<div align="center">
 <img align="center" alt="coding" width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWM4bzJqYXczcG50eW5mMzFnampvdmxpd3prbXQ1MXNoOHdyNjZqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"> </div>
 <br><br>
 <p align="center"> 
